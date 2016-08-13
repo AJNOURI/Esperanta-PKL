@@ -10,8 +10,13 @@ PKL estas la ekvivalenta projekto de [Cued Speech](https://en.wikipedia.org/wiki
 Tiu koncepto plensignifas kun esperanto, ĉar unu litero reprezentas unu sono.
 
 
+![kvz](http://hpnouri.free.fr/pkl/kvz.png "kvz")
+![jxphd](http://hpnouri.free.fr/pkl/jxphd.png "jxphd")
+![gc](http://hpnouri.free.fr/pkl/gc.png "gc")
+![bngx](http://hpnouri.free.fr/pkl/bngx.png "bngx")
+![rs](http://hpnouri.free.fr/pkl/rs.png "rs")
+![lhxuxsx](http://hpnouri.free.fr/pkl/lhxuxsx.png "lhxuxsx")
 ![j](http://hpnouri.free.fr/pkl/j.png "j")
-
 
 
 
