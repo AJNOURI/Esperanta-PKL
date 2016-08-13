@@ -31,5 +31,5 @@ Tiu koncepto plensignifas kun esperanto, ĉar unu litero reprezentas unu sono.
 
 
 
-### Resumo de PKL
+### Revizslipo
 ![http://hpnouri.free.fr/pkl/PKLv7.jpg](http://hpnouri.free.fr/pkl/PKLv7.jpg)
