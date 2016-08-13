@@ -10,7 +10,7 @@ PKL estas la ekvivalenta projekto de [Cued Speech](https://en.wikipedia.org/wiki
 Tiu koncepto plensignifas kun esperanto, ĉar unu litero reprezentas unu sono.
 
 
-
+![j](http://hpnouri.free.fr/pkl/j.png "j")
 
 
 
