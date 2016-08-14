@@ -1,0 +1,65 @@
+<HEAD>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document  -->
+
+<BODY>
+
+<p>
+	bla bla
+</p>
+<p>
+	bla bla
+</p>
+<iframe id="q1" src='https://h5p.org/h5p/embed/19684' width="275" height="650" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<p>
+<button OnClick="showembedd()">Elektu alian ekzercon</button>
+</p>
+<p>
+	bla bla
+</p>
+<p>
+	bla bla
+</p>
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://www.javascriptsource.com -->
+
+<!-- Begin
+// Set up the image files to be used.
+var theImages = new Array() // do not change this
+// To add more image files, continue with the
+// pattern below, adding to the array.
+
+theImages[0] = 'https://h5p.org/h5p/embed/19684'
+theImages[1] = 'https://h5p.org/h5p/embed/21468'
+theImages[2] = 'https://h5p.org/h5p/embed/21469'
+theImages[3] = 'https://h5p.org/h5p/embed/21470'
+
+
+// do not edit anything below this line
+
+var j = 0
+var p = theImages.length;
+var preBuffer = new Array()
+q1frame = document.getElementById('q1');
+
+function showembedd(){
+	for (i = 0; i < p; i++){
+	   preBuffer[i] = new Image()
+	   preBuffer[i].src = theImages[i]
+		}
+	var whichImage = Math.round(Math.random()*(p-1));
+	q1frame.src=(theImages[whichImage]);
+	//document.write (theImages[whichImage]);
+	}
+
+
+
+//  End -->
+</script>
+
+</BODY>
